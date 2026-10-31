@@ -9,6 +9,8 @@ Com uma interface elegante em tons de roxo e modo escuro, a plataforma permite v
 
 🔗 **Acesse o projeto online:** https://shwnzzzz.github.io/NexoraFinance-ProjectShw/
 
+<img src="NexoraFinance.png" width="80%">
+
 ## ✨ Funcionalidades
 
 - 📊 Dashboard com visão geral financeira.
