@@ -7,9 +7,7 @@ Com uma interface elegante em tons de roxo e modo escuro, a plataforma permite v
 
 ## 🌐 Demonstração
 
-**Acesse o projeto online:**
-
-🔗 https://rough-teal-u4hbtysb.edgeone.dev/
+🔗 **Acesse o projeto online:** https://shwnzzzz.github.io/NexoraFinance-ProjectShw/
 
 ## ✨ Funcionalidades
 
