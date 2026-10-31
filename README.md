@@ -47,9 +47,7 @@ O Nexora Finance foi desenvolvido como projeto de portfólio, com o objetivo de 
 
 ## 👨‍💻 Desenvolvedor
 
-**ShwDevs**
-
-Desenvolvimento de Software | UI/UX Design | Desenvolvimento Mobile
+**ShwDevs** Desenvolvimento de Software | UI/UX Design | Desenvolvimento Mobile
 
 ---
 
