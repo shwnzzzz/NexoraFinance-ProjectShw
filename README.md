@@ -1,4 +1,4 @@
-# 💜 Nexora Finance
+# 💜 ⎯ Nexora Finance
 
 ### Sua vida financeira em um só lugar.
 
